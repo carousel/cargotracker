@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.wagon:wagon-http-lightweight:2.6">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/wagon/wagon-http-lightweight/2.6/wagon-http-lightweight-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.jersey.core:jersey-client:2.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-client/2.0/jersey-client-2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

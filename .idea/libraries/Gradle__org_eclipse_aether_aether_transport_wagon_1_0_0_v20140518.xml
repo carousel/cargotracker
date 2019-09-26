@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.aether:aether-transport-wagon:1.0.0.v20140518">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/aether/aether-transport-wagon/1.0.0.v20140518/aether-transport-wagon-1.0.0.v20140518.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-spi:2.2.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-spi/2.2.0/shrinkwrap-resolver-spi-2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
