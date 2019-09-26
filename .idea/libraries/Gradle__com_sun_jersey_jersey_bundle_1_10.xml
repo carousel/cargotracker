@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: com.sun.jersey:jersey-bundle:1.10">
-    <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.10/jersey-bundle-1.10.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
