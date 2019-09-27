@@ -16,3 +16,11 @@ All notable changes to this project will be documented in this file.
 ### Removed
 - pom.xml (using gradle instead, need opinions about this)
 
+## [0.0.2] - 2019-09-27
+### Changed
+- add destinationCoordinates property to Track class (it was missing in original app) [Miroslav Trninic](https://github.com/carousel)
+- replace call to `track.destinationCoordinates` with  `track.cargo.destinationCoordinates` in `admin/track.xhtml` (bug from original app)
+- update .gitignore 
+
+
+

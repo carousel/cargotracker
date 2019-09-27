@@ -30,6 +30,17 @@ import net.java.cargotracker.domain.model.handling.HandlingEventRepository;
 @ViewScoped
 public class Track implements Serializable {
 
+    public String getDestinationCoordinates() {
+        return destinationCoordinates;
+    }
+
+    public void setDestinationCoordinates(String destinationCoordinates) {
+        this.destinationCoordinates = destinationCoordinates;
+    }
+
+    private String destinationCoordinates;
+
+
     private static final long serialVersionUID = 1L;
 
     @Inject
